@@ -6,7 +6,7 @@ This is a clone of the BlinkIt website, created by Mayur Hanwate. :computer: htt
 
 ## Description :memo:
 
-This repository contains the source code for a clone of the BlinkIt website. BlinkIt is a delivery service, and this clone aims to replicate its design and functionality for educational purposes. :bulb:
+This repository contains the source code for a clone of the BlinkIt website. BlinkIt is a delivery service. :bulb:
 
 ## Table of Contents :bookmark_tabs:
 
